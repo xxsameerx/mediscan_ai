@@ -61,5 +61,4 @@ An AI-powered diagnostic tool that detects seven types of skin diseases from ima
 
 ---
 
-## 📂 File Structure
 
