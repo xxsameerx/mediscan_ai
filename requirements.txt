@@ -1,0 +1,9 @@
+torch>=2.0
+torchvision
+gradio
+numpy
+opencv-python
+Pillow
+reportlab
+matplotlib
+transformers
