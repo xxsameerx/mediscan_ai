@@ -10,7 +10,7 @@ An AI-powered diagnostic tool that detects seven types of skin diseases from ima
 - ✅ Grad-CAM heatmap visualization
 - ✅ Auto-generated PDF report with diagnosis, test suggestions, prevention & treatment
 - ✅ Clean Gradio interface for interaction
-- ✅ Deployable on Hugging Face or locally
+- ✅ Deployable on Hugging Face or locally.
 
 ---
 
